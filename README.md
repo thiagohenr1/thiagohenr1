@@ -54,9 +54,8 @@
   </p>
 
 ##
+</div>
 
 ![Snake animation](https://github.com/thiagohenr1/thiagohenr1/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
   
 ##
