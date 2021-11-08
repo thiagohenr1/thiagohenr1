@@ -28,6 +28,10 @@
   
 ##
 
+### Trabalhos de Design
+<div>
+  <a href="https://abre.ai/trabalhos-de-design" target="_blank"><img src="https://img.shields.io/badge/-Trabalhos%20de%20Design-blue" target="_blank"></a>
+ 
 ### Redes Sociais
 <div>
   <a href="https://api.whatsapp.com/send?phone=5511966101861" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
