@@ -30,7 +30,7 @@
 
 ### Trabalhos de Design
 <div>
-  <a href="https://abre.ai/trabalhos-de-design" target="_blank"><img src="https://img.shields.io/badge/-Trabalhos%20de%20Design-blue" target="_blank"></a>
+  <a href="https://abre.ai/trabalhos-de-design" target="_blank"><img src="https://img.shields.io/badge/-Trabalhos%20de%20Design-blue?style=for-the-badge&logo=appveyo" target="_blank"></a>
  
 ### Redes Sociais
 <div>
