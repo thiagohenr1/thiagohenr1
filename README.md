@@ -28,7 +28,7 @@
   
 ##
 
-### Trabalhos de Design
+### Portfólio
 <div>
   <a href="https://abre.ai/trabalhos-de-design" target="_blank"><img src="https://img.shields.io/badge/-Trabalhos%20de%20Design-blue?style=for-the-badge&logo=appveyo" target="_blank"></a>
  
