@@ -1,6 +1,6 @@
-### Olá, Eu sou o Thiago Henrique!
+### Olá, Bem vindo ao meu perfil!
 ##
-- 🔭 Atualmente trabalhando com Front-End.
+- 🔭 A procura de ser um Web Designer & Desenvolvedor Front-end de respeito.
 - ✈ Sonho em morar no Canada.
 - 🧐 Cada dia evoluindo mais.
 
@@ -11,19 +11,13 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thiago-SASS" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png">
-  <img align="center" alt="Thiago-Flutter" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png">
-  <img align="center" alt="Thiago-Ts" height="30" width="30" src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png">
-  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-Photoshop" height="30" width="30" src="https://insmac.org/uploads/posts/2020-10/1603470791_adobe-photoshop-2021.png">
   <img align="center" alt="Thiago-Illustrator" height="30" width="30" src="https://insmac.org/uploads/posts/2020-08/1597638381_illustrator.png">
   <img align="center" alt="Thiago-Office" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png">
   <img align="center" alt="Thiago-Windows" height="30" width="30" src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png">
-  <img align="center" alt="Thiago-Linux" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png">
 </div>
   
 ##
@@ -54,7 +48,7 @@
   HDD: 500GB Seagate<br>
   SSD: 120GB Kingston<br>
   Monitor 1: AOC 16 Polegadas<br>
-  Monitor 2: AOC 42 Polegadas<br>
+  Monitor 2: AOC 28 Polegadas<br>
   </p>
 
 ##
