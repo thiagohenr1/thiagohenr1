@@ -15,8 +15,8 @@
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-Wordpress" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/wordpress.png">
-  <img align="center" alt="Thiago-Photoshop" height="30" width="30" src="https://insmac.org/uploads/posts/2020-10/1603470791_adobe-photoshop-2021.png">
-  <img align="center" alt="Thiago-Illustrator" height="30" width="30" src="https://insmac.org/uploads/posts/2020-08/1597638381_illustrator.png">
+  <img align="center" alt="Thiago-Photoshop" height="35" width="35" src="https://insmac.org/uploads/posts/2020-10/1603470791_adobe-photoshop-2021.png">
+  <img align="center" alt="Thiago-Illustrator" height="35" width="35" src="https://insmac.org/uploads/posts/2020-08/1597638381_illustrator.png">
   <img align="center" alt="Thiago-Office" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png">
   <img align="center" alt="Thiago-Windows" height="30" width="30" src="https://logospng.org/download/windows-11/logo-windows-11-icon-1024.png">
 </div>
